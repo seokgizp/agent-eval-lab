@@ -1,0 +1,5 @@
+[
+  {"name": "capital-fr", "input": "capital of France?", "expect_keywords": ["paris"]},
+  {"name": "sort-words", "input": "sort these: banana apple cherry", "expect_keywords": ["apple", "banana", "cherry"]},
+  {"name": "json-out", "input": "answer as JSON: 2+2", "expect_keywords": ["4"]}
+]
